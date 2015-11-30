@@ -1,0 +1,9 @@
+{
+	"name" : "SAT",
+	"dependence" : ["core"],
+	"source" : "",
+	"file_list" : [
+		"SAT.js",
+		"SAT.d.ts"
+	]
+}
